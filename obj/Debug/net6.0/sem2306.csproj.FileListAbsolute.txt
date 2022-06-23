@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\sem2306\bin\Debug\net6.0\sem2306.exe
+C:\Users\User\Desktop\sem2306\bin\Debug\net6.0\sem2306.deps.json
+C:\Users\User\Desktop\sem2306\bin\Debug\net6.0\sem2306.runtimeconfig.json
+C:\Users\User\Desktop\sem2306\bin\Debug\net6.0\sem2306.dll
+C:\Users\User\Desktop\sem2306\bin\Debug\net6.0\sem2306.pdb
+C:\Users\User\Desktop\sem2306\obj\Debug\net6.0\sem2306.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\sem2306\obj\Debug\net6.0\sem2306.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\sem2306\obj\Debug\net6.0\sem2306.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\sem2306\obj\Debug\net6.0\sem2306.AssemblyInfo.cs
+C:\Users\User\Desktop\sem2306\obj\Debug\net6.0\sem2306.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sem2306\obj\Debug\net6.0\sem2306.dll
+C:\Users\User\Desktop\sem2306\obj\Debug\net6.0\refint\sem2306.dll
+C:\Users\User\Desktop\sem2306\obj\Debug\net6.0\sem2306.pdb
+C:\Users\User\Desktop\sem2306\obj\Debug\net6.0\sem2306.genruntimeconfig.cache
+C:\Users\User\Desktop\sem2306\obj\Debug\net6.0\ref\sem2306.dll
